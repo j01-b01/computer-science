@@ -4,3 +4,7 @@ Project Block Letters Completed - Codecademy
 Project Receipts for lovely loveseats Completed - Codecademy
 Project Magic 8-Ball Completed - Codecademy
 Project Sal's Shipping Completed - Codecademy
+Project Gradebook Completed - Codecademy
+Project Len's Slice Completed - Codecademy
+Project Carly's Clippers Completed - Codecademy
+Project Getting ready for Physics Completed - Codecademy
