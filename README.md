@@ -8,3 +8,7 @@ Project Gradebook Completed - Codecademy
 Project Len's Slice Completed - Codecademy
 Project Carly's Clippers Completed - Codecademy
 Project Getting ready for Physics Completed - Codecademy
+Python Code Challenges: Control Flow - Completed
+Python Code Challenges: Control Flow (Advanced) - Completed
+Python Code Challenges: Lists - Completed
+Python Code Challenges: Lists (Advanced) - Completed
