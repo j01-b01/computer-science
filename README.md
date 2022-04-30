@@ -12,3 +12,8 @@ Python Code Challenges: Control Flow - Completed
 Python Code Challenges: Control Flow (Advanced) - Completed
 Python Code Challenges: Lists - Completed
 Python Code Challenges: Lists (Advanced) - Completed
+Python Code Challenges: Loops - Completed
+Python Code Challenges: Loops (Advanced) - Completed
+Python Code Challenges: Functions - Completed
+Python Code Challenges: Functions (Advanced) - Completed
+Project Bicycle World Completed - Codecademy
