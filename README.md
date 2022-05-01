@@ -17,3 +17,5 @@ Python Code Challenges: Loops (Advanced) - Completed
 Python Code Challenges: Functions - Completed
 Python Code Challenges: Functions (Advanced) - Completed
 Project Bicycle World Completed - Codecademy
+
+Today, I noticed that I'm starting to think as a programmer.
