@@ -20,3 +20,4 @@ Project Bicycle World Completed - Codecademy
 
 Today, I noticed that I'm starting to think as a programmer.
 Today, I applied programming mental model to everything I did throughout the day.
+Today, I applied the Programming mental model in the decisions I made today.
