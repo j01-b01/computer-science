@@ -27,3 +27,4 @@ Today, I continued learning about a developer's role working in an Agile team.
 Updated my Action Plan.
 Today, I kept on using the Programming mental model to solve problems on my daily life.
 Today, I learned about git-github workflow.
+Started the boredless project in Codecademy.
