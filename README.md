@@ -29,3 +29,4 @@ Today, I kept on using the Programming mental model to solve problems on my dail
 Today, I learned about git-github workflow.
 Started the boredless project in Codecademy.
 Plan revision and update.
+Assisted google I/O. it was amazing!
