@@ -30,3 +30,4 @@ Today, I learned about git-github workflow.
 Started the boredless project in Codecademy.
 Plan revision and update.
 Assisted google I/O. it was amazing!
+Google I/O day 2.
