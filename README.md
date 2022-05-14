@@ -31,3 +31,4 @@ Started the boredless project in Codecademy.
 Plan revision and update.
 Assisted google I/O. it was amazing!
 Google I/O day 2.
+Today I've applied the programming mental model to investing
