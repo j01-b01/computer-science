@@ -32,3 +32,4 @@ Plan revision and update.
 Assisted google I/O. it was amazing!
 Google I/O day 2.
 Today I've applied the programming mental model to investing
+Today I used the programming mental model to solve structure my personal problems to find solutions and it looks promising.
